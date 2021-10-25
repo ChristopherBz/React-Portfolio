@@ -1,6 +1,6 @@
 # React Portfolio
 
-![image](https://user-images.githubusercontent.com/81110745/137415622-eec9e2db-0a1b-410a-bb50-beebcdb82f81.png)  
+![image](https://user-images.githubusercontent.com/81110745/138784311-8a2adb9d-5395-46a9-886b-eafd924a65a7.png) 
 Find the deployed application here: https://christopherbz.github.io/React-Portfolio/
 
 ## Description
