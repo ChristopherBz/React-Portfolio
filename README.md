@@ -15,7 +15,7 @@ Single page react portfolio
 - [Questions](#Contact-Information)  
 
 ### Demo
-![Screenshot](https://github.com/ChristopherBz/Budget-Tracker/blob/b80409cc8ceaeebf58f9fa8a3274e86bb236ffa9/assets/Budget%20Tracker.gif)
+![Screenshot](https://github.com/ChristopherBz/React-Portfolio/blob/116f48f16c3e7a490436d04e703e3385694c16cd/Full%20Stack%20Web%20Developer.gif)
 
 ### Deployed
 Find the deployed application here: https://christopherbz.github.io/React-Portfolio/
